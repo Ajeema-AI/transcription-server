@@ -1,0 +1,11 @@
+fastapi
+faster-whisper
+uvloop
+av==11.*
+ctranslate2>=4.0,<5
+huggingface_hub>=0.13
+tokenizers
+onnxruntime>=1.14,<2
+httptools==0.1.*
+python-multipart
+nvidia-cublas-cu12
